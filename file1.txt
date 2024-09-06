@@ -1,1 +1,2 @@
 Version 1 of file1.txt
+Version 2 of file1.txt
