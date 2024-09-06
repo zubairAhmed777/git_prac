@@ -2,3 +2,4 @@ Version 1 of file1.txt
 Version 2 of file1.txt
 Version 3 of file1.txt
 Version 4 of file1.txt
+Version 5 of file1.txt
